@@ -4,8 +4,8 @@
 - 🎓 Graduando em Ciência da Computação
 - 📍 Resido em São Paulo
 - 💻 Desenvolvedor Android Nativo
-- 📚 Atualmente realizando o curso [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) e estudando Algoritmos
-- ✨ Procurando oportunidades, seja Freelancer, CLT ou PJ
+- 📚 Atualmente realizando o curso [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) e estudando a linguagem Kotlin na plataforma JetBrains Academy
+- ✨ Procurando oportunidades, Estágio, Trainee, CLT full time, PJ e Freelance
 
 <div>
 <a href="https://github.com/hugosimoesdev">
