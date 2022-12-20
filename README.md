@@ -8,6 +8,5 @@
 - ✨ Procurando oportunidades, Estágio, Trainee, CLT full time, PJ e Freelance
 - 🎬 Criador de conteúdo nas plataformas: [TwitchTV](https://www.twitch.tv/hugosimoesdev) e [Instagram](https://www.instagram.com/hugosimoesdev) nas horas vagas
 
-## Principais projetos para ficar de olho:
-- [Art Space](https://github.com/hugosimoesdev/art-space-android-app)
-- [Business Card](https://github.com/hugosimoesdev/business-card-app)
+## Para ficar de olho:
+- [Osho 30 Days Challenge](https://github.com/hugosimoesdev/osho-30-days-android-app)
