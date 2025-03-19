@@ -9,3 +9,5 @@ I’m a **Software Engineer** passionate about building **scalable**, **high-per
 - **DevOps & Tools:** Vercel, AWS, Docker, Kubernetes, GitHub Actions (CI/CD)  
 - **APIs & Integrations:** RESTful APIs, AI-driven solutions  
 - **Other Skills:** Agile methodologies (Scrum), software architecture, state management  
+
+You're welcome to access my website and get my personal links: https://hugosimoes.com.br
